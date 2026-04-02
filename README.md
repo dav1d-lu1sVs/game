@@ -2,37 +2,34 @@
 
 ## Autor
 
-Nombre: Luis Vásquez
-Materia: Desarrollo de Videojuegos
-Fecha: 02/04/2026
+**Nombre:** Luis Vasquez
+**Materia:** Desarrollo de Videojuegos
+**Fecha:** 2/4/2026
 
 ## Descripción
 
-Este proyecto consiste en la creación de una escena 3D desarrollada en Unity utilizando las herramientas de diseño de terrenos y la colocación de objetos dentro del entorno.
+Este proyecto consistió en la creación de una escena en Unity utilizando herramientas de diseño de terrenos y la colocación de cubos para construir un entorno 3D.
 
-La escena está ambientada en un entorno desértico inspirado en la cultura egipcia. Se modificó la topografía del terreno y se aplicaron texturas de arena y agua para recrear un paisaje desértico. Además, se integraron distintos assets decorativos con el objetivo de construir un ambiente coherente y visualmente atractivo.
+La escena está ambientada en un entorno desértico inspirado en la cultura egipcia. Para ello, se modificó la topografía del terreno y se aplicaron texturas de arena y agua, junto con diversos assets decorativos que permiten recrear un ambiente temático coherente y visualmente atractivo.
 
 ## Elementos de la Escena
 
-* Terreno creado mediante las herramientas Terrain de Unity.
-* Aplicación de texturas de arena y agua.
-* Uso de assets como casas, palmeras, cactus, pirámides, torres, rocas y monumentos.
-* Ajustes de iluminación y mejoras visuales para reforzar la ambientación.
+* Terreno creado con herramientas Terrain de Unity.
+* Texturas de arena y agua.
+* Assets de casas, palmeras, cactus, pirámides, torres, rocas y monumentos.
+* Cambios en la iluminación y la apariencia visual.
 
 ## Ejecución del Proyecto
 
-1. Abrir Unity Hub.
-2. Seleccionar **Open Project**.
-3. Abrir la carpeta del proyecto.
-4. Cargar la escena principal ubicada en `Assets/Scenes`.
-5. Presionar **Play** para ejecutar la escena.
+1. Abrir el proyecto desde Unity Hub.
+2. Abrir la escena principal.
 
 ## Controles
 
 * W, A, S, D + clic derecho → Movimiento de cámara.
-* Mouse → Rotación de cámara.
+* Mouse → Rotar cámara.
 
 ## Video Demostración
 
+Link del video:
 https://youtu.be/bpfz3JnvD9Y
-
