@@ -1,5 +1,5 @@
-Escena Unity - Diseño de Terreno
-Autor
+#Escena Unity - Diseño de Terreno
+#Autor
 Nombre: Luis Vasquez
 Materia: Desarrollo de Videojuegos
 Fecha: 2/4/2026
